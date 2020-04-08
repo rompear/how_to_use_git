@@ -1,2 +1,2 @@
 class a:
-    pass
+    passa
