@@ -1,2 +1,3 @@
 class feature_b:
-    pass
+    def init(self):
+        self.a = 0
